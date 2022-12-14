@@ -18,7 +18,11 @@ Detection of skull fractures from 3D ct-scan images using MIP based deep learnin
 ## Overview
 A skull fracture is a break in one or more of the eight bones that form the cranial portion of the skull. This usually occurs due to severe head injury or head trauma. Skull fractures are often associated with traumatic injury to the brain. The brain can be directly damaged due to the injury to the brain tissues, bruising or bleeding. These injuries can lead to life-threatening complications.<br>
 
-This project aims to develop an MIP based method to detect and segment the skull fractures by using Deep Learning models.
+This project aims to develop an MIP based method to detect and segment the skull fractures by using Deep Learning models.<br>
+
+<p align="center">
+  <img src="_includes/example_ss.png" width="700">
+</p>
 
 ## Motivation
 The traumatic brain injuries especially intracranial haemorrhages are associated with the presence of skull fracture. But they are not easy to detect accurately. Three-dimensional display helps a lot in medical imaging for analysing various organs in the human body. Yet, many a times medical practitioners study the slices of the 3D scan, which is a long process and not so accurate. Also, for automatic fracture detection the input size is very large if it is a three-dimensional image.
