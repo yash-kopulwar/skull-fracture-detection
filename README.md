@@ -35,15 +35,13 @@ The detailed report for the project is in file project_report.pdf<br>
 </p>
 
 
-
 ## Repository files
-\_includes ----------------------------- contains images for README file
-<br>.gitattributes ------------------------- attributes to path names for Git Large File Storage (Git LFS)
-<br>LICENSE ------------------------------ MIT license
-<br>README.md ------------------------- information about the project
-<br>features.p ---------------------------- contains image features obtained from encoder for each image in dataset
-<br>image-captioning.ipynb ------------ Python code for training Image Captioning model
-<br>image_captioning_model.h5 ------- saved Image Captioning model
+\_includes ---------------------------------- contains images for README file
+<br>ct_scans ----------------------------------- folder containing some 3D CT scan images of skull
+<br>LICENSE ----------------------------------- MIT license
+<br>MIP-and-windowing.ipynb --------------- Python code for thresholding and MIP
+<br>README.md ------------------------------ information about the project
+<br>project_report.pdf ------------------------ details about the project
 <br>
 
 ## Model
